@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="luiza-banner.png" alt="Luiza Guimarães banner" width="920" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Python+%7C+Node.js+%7C+PostgreSQL;Data+Analysis+%7C+APIs;UI%2FUX+Enthusiast" alt="Typing animation" />
