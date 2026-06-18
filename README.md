@@ -39,8 +39,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizaguiprofissional&show_icons=true&theme=radical&hide_border=true" alt="Luiza's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaguiprofissional&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+
 
