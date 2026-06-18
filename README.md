@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="luiza-banner.png" alt="Luiza Guimarães banner" width="920" />
+  <img src="luiza-banner - cópia.png" alt="Luiza Guimarães banner" width="920" />
 </p>
 
 <p align="center">
